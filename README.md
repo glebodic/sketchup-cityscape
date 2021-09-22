@@ -5,4 +5,4 @@ This is a simple example for creating a grid of block with random height. Three 
 <img src="./screenshots/ex1.png" width="600">   
 
 ## How to run
-The file is not packaged as a Sketchup extention (.rbz). You need to copy the content of the cubes.rb file into SketchUp's built-in Ruby editor and run the code.
+The file is not packaged as a SketchUp extension (.rbz). You need to copy the content of the cubes.rb file into SketchUp's built-in Ruby editor and run the code.
